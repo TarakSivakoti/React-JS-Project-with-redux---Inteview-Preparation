@@ -60,21 +60,7 @@ If you already have a remote configured, skip `git remote add origin` and just p
 ---
 
 ## 🖼 UI Screenshots
-
-Add a few screenshots to the repo after the app is running. A simple convention is:
-
-- `docs/screenshots/home.png` - Landing view with the feature cards
-- `docs/screenshots/counter.png` - Counter section after a few clicks
-- `docs/screenshots/posts.png` - Posts list after loading data
-- `docs/screenshots/devtools.png` - Store state panel opened at the bottom
-
-Recommended capture order:
-
-1. Open the app with `npm run dev`.
-2. Capture the full page at the default landing state.
-3. Trigger the counter, auth, and posts flows.
-4. Capture the DevTools panel showing live Redux state.
-5. Commit the screenshots along with the README update.
+Check the file to file3
 
 ---
 
